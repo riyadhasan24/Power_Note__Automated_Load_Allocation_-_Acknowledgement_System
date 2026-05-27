@@ -34,5 +34,5 @@ Power_Note demonstrates how automation and IoT can improve reliability, efficien
 
 📩 Contact, 
 For help, suggestions, or collaboration, feel free to reach out. 
-📧 Email: riyadhasan24a@gmail.com 
+📧 Email: rh30288553@gmail.com
 📱 WhatsApp: +88 01730 288553
